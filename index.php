@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <h2>Register</h2>
+    <h2>Register Here</h2>
     <form method="post" action="registration.php">
         First Name: <input type="text" name="first_name"><br>
         Last Name: <input type="text" name="last_name"><br>
