@@ -4,7 +4,6 @@
 <head>
     <title>Registration Form</title>
 </head>
-
 <body>
     <h2>Register Here</h2>
     <form method="post" action="registration.php">
